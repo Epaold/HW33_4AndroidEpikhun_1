@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW33_4AndroidEpikhun</string>
+    <string-array name="Language">
+        <item>English </item>
+        <item>German</item>
+        <item>Russian</item>
+    </string-array>
+
+    <string name="Text_1">Text in English </string>
+    <string name="button_1">switch </string>
+
+</resources>
